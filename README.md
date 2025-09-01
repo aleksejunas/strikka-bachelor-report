@@ -9,7 +9,7 @@ Appen hjelper strikkere å organisere prosjekter og oppskrifter, blant annet gje
 - [Høyskolen Kristiania: Studenter utviklet strikkeapp hos Frend](https://www.kristiania.no/aktuelt/2024/12/kristiania-studenter-utviklet-strikke-app-hos-frend/)  
 
 ## Rapport
-- [Last ned bachelorrapport (PDF)](strikka-bachelor-rapport)
+- [Last ned bachelorrapport (PDF)](strikka-bachelor-rapport.pdf)
 
 ## Team og prosess
 - Smidig og **iterativ produktutvikling** i tverrfaglig team med designer  
